@@ -1,7 +1,9 @@
 # CryptoZombies 
-CryptoZombies is a free, interactive code school to learn solidity and build games on Ethereum
+CryptoZombies is an interactive code school that teaches you to write smart contracts in Solidity through building your own crypto-collectables game on Ethereum.
 
-![alt text](https://cryptozombies.io/course/static/image/preview-zombie.png)
+
+<img src="https://cryptozombies.io/course/static/image/preview-zombie.png" width="110" height="150">
+
 
 ### Install
 ```
