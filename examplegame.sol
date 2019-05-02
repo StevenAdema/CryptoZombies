@@ -6,7 +6,7 @@ contract ExampleGame is ZBGameMode  {
 
     function beforeMatchStart(bytes serializedGameState) external {
 
-        //TODO
+        address public owner;
         
     }
 }
